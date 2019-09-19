@@ -12,5 +12,5 @@ import "fmt"
 
 // Version use for show version
 func Version() {
-	fmt.Println("0.0.2")
+	fmt.Println("0.0.5")
 }
