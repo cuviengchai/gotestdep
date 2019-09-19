@@ -1,4 +1,4 @@
-package main
+package gotestdep
 
 import "fmt"
 
